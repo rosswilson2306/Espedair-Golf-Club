@@ -1,0 +1,33 @@
+@media only screen and (max-width: 1250px) {
+    html {
+        font-size: 8px;
+    }
+
+    .course {
+        height: 120vh;
+    }
+
+    .course--container {
+        top: 50%;
+    }
+
+    .course--bunker {
+        width: 40rem;
+    }
+
+    .course--fair {
+        width: 40rem;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .course {
+        height: 210vh;
+    }
+    
+    .course--container {
+       top: 50%;
+    }
+
+    
+}
